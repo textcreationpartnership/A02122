@@ -37,15 +37,37 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Gvvydonius The carde of fancie wherein the folly of those carpet knights is decyphered, which guydin
+
+1. ¶TO THE RIGHT HOnourable,
+Edward de Vere Earle of Oxenford, Vicount
+Bulbecke, Lord of Escales and Badlesmere, and Lord
+great Chamberlaine of England. Robert
+Greene vvisheth long life vvith increase
+of honour.
+
+1. To the Gentlemen
+Readers, health.
+
+1. Ad Lectorem in laudem
+Authoris.
+
 #####Body#####
 
-1. The second discourse.
+1. ❧ THE CARD OF
+Fancie.
 
-1. The third discourse.
+1. The Debate betweene Follie and
+Loue, Translated out of French by Robert
+Greene, Master of Artes.
+
+    _ The second discourse.
+
+    _ The third discourse.
 
 #####Back#####
-Gvvydonius The carde of fancie wherein the folly of those carpet knights is decyphered, which guydin
+AT LONDON
+Printed by T. East, for William Ponsonby.
+1584.
 **Types of content**
 
   * There are 13 **verse** lines!
